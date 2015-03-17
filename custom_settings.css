@@ -1,10 +1,9 @@
 .pi{
     width: 250px;
-    height: 120px;
+    height: 80px;
     background-color: #5b9ed4;
     position: relative;
-    left: 25px;
-    top: 30px;
+    left: 5px;
     border-color: #e83933;
     border-style: dotted;
     color: ghostwhite;
